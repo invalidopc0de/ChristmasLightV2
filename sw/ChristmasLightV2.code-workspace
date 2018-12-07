@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "node\\ChristmasLightNode"
+		},
+		{
+			"path": "controller\\rust-controller"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\Mark\\.platformio\\penv\\Scripts;C:\\Users\\Mark\\.platformio\\penv;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\Crucial\\Crucial Storage Executive;C:\\Program Files\\TortoiseSVN\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\Mark\\.cargo\\bin;C:\\Users\\Mark\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\Mark\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\Crucial\\Crucial Storage Executive;C:\\Program Files\\TortoiseSVN\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\Mark\\.cargo\\bin;C:\\Users\\Mark\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\Mark\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}

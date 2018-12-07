@@ -1,0 +1,7 @@
+[package]
+name = "rust-controller"
+version = "0.1.0"
+authors = ["Mark"]
+
+[dependencies]
+simplemad = "0.9.0"
